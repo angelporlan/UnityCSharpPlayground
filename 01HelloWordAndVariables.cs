@@ -22,6 +22,6 @@ public class HelloWordAndVariables : MonoBehaviour
 
     void Start()
     {
-        Debug.Log("Hola Mundo");
+        Debug.Log("Entero: " + entero + " Flotante: " + flotante + " Doble: " + doble + " Texto: " + texto + " Booleano: " + booleano + " Caracter: " + caracter);
     }
 }
